@@ -7,6 +7,7 @@ Study_Backjoon
 3. git init
 4. git clone [fork한 나의 remote repository 주소 : 즉, origin repo. 주소 (e.g.) https://github.com/Jaeminiman/algorithm-study.git]
 5. 원본 프로젝트 저장소를 원격 저장소로 추가  
+$ git remote add origin [fork한 나의 remote repository 주소 : 즉, origin repo. 주소 (e.g.) https://github.com/Jaeminiman/algorithm-study.git]  
 $ git remote add upstream [원본 프로젝트 저장소 : 즉, https://github.com/algolStudy/algorithm.git]
   
 6. 원격 저장소 설정 현황 확인방법  
