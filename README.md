@@ -5,7 +5,7 @@ Study_Backjoon
 1. 우측 상단 Fork 클릭 -> 내 저장소(remote repository)에 algolStudy/algorithm 원본 프로젝트 저장소(upstream repository)를 가져오기
 2. local 폴더 만들어서 Terminal로 해당 폴더 접근
 3. git init
-4. git clone [fork한 나의 remote repository 주소 : 즉, origin repo. 주소]
+4. git clone [fork한 나의 remote repository 주소 : 즉, origin repo. 주소 (e.g.) https://github.com/Jaeminiman/algorithm-study.git]
 5. 원본 프로젝트 저장소를 원격 저장소로 추가  
 $ git remote add upstream [원본 프로젝트 저장소 : 즉, https://github.com/algolStudy/algorithm.git]
   
