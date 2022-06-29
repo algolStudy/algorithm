@@ -7,7 +7,7 @@ Study_Backjoon
 3. git clone https://github.com/Jaeminiman/Algorithm.git
 4. 원본 프로젝트 저장소를 원격 저장소로 추가
   
-$ git remote add origin https://github.com/Jaeminiman/Algorithm.git
+$ git remote add origin [folk한 remote 저장소 주소]
   
 5. 원격 저장소 설정 현황 확인방법
   
@@ -19,7 +19,7 @@ $ git remote -v
   
   $ git checkout -b [branch 이름]
   
-6. 작업할 branch로 이동
+7. 작업할 branch로 이동
 
 $ git checkout [branch 이름]
 
