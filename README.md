@@ -20,6 +20,7 @@ $ git remote -v
   $ git checkout -b [branch 이름]
   
 6. 작업할 branch로 이동
+
 $ git checkout [branch 이름]
 
 
