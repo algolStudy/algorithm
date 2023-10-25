@@ -1,5 +1,5 @@
 # Algorithm
-Study_Backjoon
+Study Backjoon and Jongman book 1,2
 
 ## git 설정 방법 (참고 : https://deepinsight.tistory.com/167)
 1. 우측 상단 Fork 클릭 -> 내 저장소(remote repository)에 algolStudy/algorithm 원본 프로젝트 저장소(upstream repository)를 가져오기
